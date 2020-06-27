@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:kumar;Sanjay;;;
+FN: Sanjay  Kumar
+ORG:LogoficTech;
+TITLE:Software Engineer\nStudent, PSG Tech
+EMAIL;type=INTERNET;type=WORK;type=pref:logofictech@gmail.com
+TEL;type=WORK;type=VOICE:+91 9940517704
+item1.ADR;type=WORK;type=pref:;;4/2, Kambar Street,\nGandhi Nagar, Saligramam,\nChennai,;;;600093;India
+item1.X-ABADR:sg
+item2.URL;type=pref:ssk-14.github.io/web/
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
